@@ -17,7 +17,7 @@ Sou uma graduanda em Engenharia Eletrônica na UFPE, atualmente em transição d
 - **Comunidade DS:** Trilhando meu caminho como aprendiz na comunidade DS.
 
 ## Contato 📬
-- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/lais-coutinho-/)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/lais-coutinho-/)
 - **E-mail:** laismcs89@gmail.com
 
 ## Agradecimentos 🙏
