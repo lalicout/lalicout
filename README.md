@@ -12,10 +12,6 @@ Sou uma graduanda em Engenharia Eletrônica na UFPE, atualmente em transição d
 - **Graduação:** Engenharia Eletrônica na UFPE
 - **Bootcamp:** TECHMINAS pela WomakersCode e Porto Digital
 
-## Contribuições e Atividades Atuais 🌐
-- **Comunidade DS:** Trilhando meu caminho como aprendiz na comunidade DS.
-- **Monitoria Voluntária:** Womakers Code
-
 ## Contato 📬
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/lais-coutinho-/)
 - **E-mail:** laismcs89@gmail.com
