@@ -1,7 +1,7 @@
 ## Olá! 👋
 
 ## Sobre Mim
-Sou uma graduanda em Engenharia Eletrônica na UFPE, atualmente em transição de carreira para a área de dados. Participei do bootcamp TECHMINAS, oferecido pela WomakersCode em parceria com o Porto Digital. Atualmente, contribuo como monitora voluntária na Womakers Code e estou trilhando meu caminho como aprendiz na comunidade DS (Data Science).
+Sou uma graduanda em Engenharia Eletrônica na UFPE, atualmente em transição de carreira para a área de dados. Participei do bootcamp TECHMINAS, oferecido pela WomakersCode em parceria com o Porto Digital. Atualmente, atuo como auxiliar de projetos na WoMakersCode.
 
 ## Tecnologias e Ferramentas 🚀
 - **Linguagens:** ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white)
