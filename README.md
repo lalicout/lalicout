@@ -34,6 +34,6 @@ Novos projetos e cases serão adicionados em breve estou reestruturando este rep
 
 ## Conecte-se comigo 
 
-Obrigada por visitar meu perfil! Fique à vontade para explorar meus projetos e entrar em [contato].
+Obrigada por visitar meu perfil! Fique à vontade para explorar meus projetos e entrar em [contato](https://www.linkedin.com/in/lais-coutinho-/).
 
 🙂
